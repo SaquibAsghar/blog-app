@@ -19,3 +19,6 @@
  ```bash
     npm i -D nodemon
  ```
+
+ Now create folders controllers, models, routes, views
+ 
