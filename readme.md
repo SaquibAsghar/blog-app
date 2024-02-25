@@ -9,7 +9,11 @@
  ```
  After package.json is created, install the dependencies by running below command
  ```bash
-    npm i express mongoose ejs
+    npm i
+        express
+        mongoose
+        ejs
+        dotenv
  ```
  After installing the dependencies, install the dev dependencies, by running below command
  ```bash
